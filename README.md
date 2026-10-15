@@ -1,115 +1,178 @@
 
 <div align="center">
 
-# Hi, I'm Mahaboob Alam Momin 👋
+# Hey, I'm Mahaboob! 👋
 
-### Software Developer | MS Computer Science | Data Science Enthusiast
+### I turn curiosity into code, and ideas into applications.
 
-Building practical software solutions and exploring the intersection of software engineering and data.
+**MS Computer Science @ Wright State University 🇺🇸**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahaboob-alam-momin-4106b0225/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-24292e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.mahaboobalammomin.com.np)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alammahaboob101@gmail.com)
+*Software Development • Full-Stack Engineering • Data Science*
+
+<br>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Computer+Science+Graduate+Student;Building+Ideas+Into+Reality;Exploring+Software+%26+Data+Science;Always+Learning.+Always+Building.)
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahaboob-alam-momin-4106b0225/)
+[![Portfolio](https://img.shields.io/badge/Explore_My-Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.mahaboobalammomin.com.np)
+[![Email](https://img.shields.io/badge/Say_Hello-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alammahaboob101@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 The Human Behind the Code
 
-I'm a Computer Science graduate student at **Wright State University**, with an interest in developing reliable, user-focused software applications.
+I'm Mahaboob, a Computer Science graduate student at **Wright State University**, originally from Nepal 🇳🇵.
 
-My interests span full-stack development, backend engineering, and data science. I enjoy learning new technologies, solving technical challenges, and turning ideas into working applications.
+What excites me about programming isn't just writing code. It's the moment when an idea becomes something real, something that people can actually use.
 
-- 🎓 Pursuing an MS in Computer Science at Wright State University
-- 💻 Interested in Software Engineering and Full-Stack Development
-- 📊 Exploring Python and Data Science
-- 🚀 Building and improving real-world software projects
-- 🌱 Continuously strengthening my problem-solving and development skills
-- 🤝 Open to collaboration and entry-level software development opportunities
+I enjoy exploring how software works, experimenting with technologies, and challenging myself to build better applications.
+
+My interests lie in **Software Engineering, Full-Stack Development, and Data Science**.
+
+I don't claim to know everything. But I enjoy figuring things out, one problem and one project at a time.
+
+> "The best way I learn technology is by building something with it."
 
 ---
 
-## 🛠️ Technical Skills
+## ⚡ A Little About Me, in Code
 
-### Programming Languages
+```javascript
+const mahaboob = {
+  education: "MS Computer Science",
+  university: "Wright State University",
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+  from: "Nepal 🇳🇵",
+  currently: "United States 🇺🇸",
 
-### Frontend Development
+  interests: [
+    "Software Engineering",
+    "Full-Stack Development",
+    "Data Science",
+    "Problem Solving"
+  ],
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+  languages: ["Python", "JavaScript", "SQL"],
+
+  currentlyBuilding: "Zenventory",
+
+  mindset: "Stay curious. Keep building."
+};
+```
+
+---
+
+## 🛠️ My Developer Toolkit
+
+<div align="center">
+
+### Languages
+
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=js)
+
+### Frontend
+
+![Frontend](https://skillicons.dev/icons?i=react,html,css,tailwind)
 
 ### Backend & Databases
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Backend](https://skillicons.dev/icons?i=nodejs,mongodb)
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode)
 
----
-
-## 🚀 Featured Project
-
-### 📦 Zenventory — Voice-Integrated Inventory Management System
-
-An inventory management project that explores using voice commands to interact with inventory operations.
-
-**Tech Stack:** React, JavaScript, Python, Node.js, MongoDB, SQL
-
-**Project Focus:**
-- Inventory management application development
-- Voice-command integration for inventory interactions
-- Working with frontend, backend, and database technologies
-
-> Repository link and further technical details will be added as the project documentation is finalized.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahaboobAlMomin&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahaboobAlMomin&layout=compact&theme=github_dark&hide_border=true)
+**Also working with:** SQL
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 🚀 What I've Been Building
 
-- Strengthening my software engineering fundamentals
-- Building projects with React, Node.js, and Python
-- Expanding my knowledge of data science
-- Improving code quality and application architecture
-- Exploring opportunities to contribute to meaningful software projects
+### 🎙️ Zenventory — Inventory Meets Voice Technology
+
+**What if managing inventory could be as simple as speaking?**
+
+That's the idea behind Zenventory, a project exploring voice-command integration in an inventory management system.
+
+The project brings together my interests in full-stack development and practical software applications.
+
+**Technology Stack:**
+
+`React` `JavaScript` `Python` `Node.js` `MongoDB` `SQL`
+
+**Core Concept:**
+
+Using voice commands to interact with inventory management operations.
+
+*More technical documentation and project details coming soon.*
 
 ---
 
-## 🤝 Let's Connect
+## 📈 My GitHub Journey
 
-I'm interested in connecting with developers, engineers, recruiters, and others who enjoy building technology.
+<div align="center">
 
-📧 **Email:** [alammahaboob101@gmail.com](mailto:alammahaboob101@gmail.com)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahaboobAlMomin&show_icons=true&theme=tokyonight&hide_border=true)
 
-💼 **LinkedIn:** [Mahaboob Alam Momin](https://www.linkedin.com/in/mahaboob-alam-momin-4106b0225/)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahaboobAlMomin&layout=compact&theme=tokyonight&hide_border=true)
 
-🌐 **Portfolio:** [mahaboobalammomin.com.np](https://www.mahaboobalammomin.com.np)
+</div>
+
+---
+
+## 🌱 Currently Exploring
+
+```python
+learning = {
+    "software": [
+        "Software Engineering",
+        "Backend Development",
+        "Application Architecture"
+    ],
+    "data": [
+        "Python for Data Science",
+        "Data Analysis"
+    ],
+    "personal_growth": [
+        "Problem Solving",
+        "Writing Better Code",
+        "Building Meaningful Projects"
+    ]
+}
+
+for area in learning:
+    print(f"Keep improving: {area}")
+```
+
+---
+
+## 🤝 Let's Build Connections
+
+I'm always interested in meeting people who are passionate about technology, exchanging ideas, and learning from different perspectives.
+
+Whether you're a fellow student, developer, engineer, or recruiter, feel free to reach out.
+
+📫 **Email:** [alammahaboob101@gmail.com](mailto:alammahaboob101@gmail.com)
+
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/mahaboob-alam-momin-4106b0225/)
+
+🌐 **Portfolio:** [Visit my website](https://www.mahaboobalammomin.com.np)
 
 ---
 
 <div align="center">
 
-*Learning continuously. Building thoughtfully. Improving every day.*
+### Thanks for stopping by! 👋
+
+**Curious mind. Developer mindset. Always a student.**
+
+*One commit at a time.* 🚀
 
 </div>
