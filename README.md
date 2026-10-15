@@ -1,37 +1,115 @@
-### $Hi there, ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
-hi, i'm [Mahaboob Alam Momin](https://www.mahaboobalammomin.com.np), a passionate self-taught web developer and software engineer from nepal. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+<div align="center">
 
-currently, i am learning react, nextjs, design principle and practising this for fronted stack.
+# Hi, I'm Mahaboob Alam Momin 👋
 
-i have hands on experience on react, tailwindcss, javascript, mongodb, so you can consult me anything on these stack.
+### Software Developer | MS Computer Science | Data Science Enthusiast
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+Building practical software solutions and exploring the intersection of software engineering and data.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</a>
-<a href="https://www.linkedin.com/in/mahaboob-alam-momin-4106b0225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mahaboob Alam Momin" height="30" width="40" /></a>
-<a href="https://instagram.com/rawretrix?igshid=MzNlNGNkZWQ4Mg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ethan_rogue_" height="30" width="40" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahaboob-alam-momin-4106b0225/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-24292e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.mahaboobalammomin.com.np)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alammahaboob101@gmail.com)
 
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" style="justify-content = "space-between"" >  <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>  </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
- <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="55" height="45"/> 
-</a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a><a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
- <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-- 💼 any freelance work? do reach, [email](mailto:alammahaboob101@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
-  <br/>
-  <img align="centre" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+## 👨‍💻 About Me
 
-<br />
+I'm a Computer Science graduate student at **Wright State University**, with an interest in developing reliable, user-focused software applications.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahaboobAlMomin&layout=compact&hide=css,html)
-![MahaboobAlMomin github stats](https://github-readme-stats.vercel.app/api?username=MahaboobAlMomin&count_private=true&show_icons=true&theme=onedark)
+My interests span full-stack development, backend engineering, and data science. I enjoy learning new technologies, solving technical challenges, and turning ideas into working applications.
+
+- 🎓 Pursuing an MS in Computer Science at Wright State University
+- 💻 Interested in Software Engineering and Full-Stack Development
+- 📊 Exploring Python and Data Science
+- 🚀 Building and improving real-world software projects
+- 🌱 Continuously strengthening my problem-solving and development skills
+- 🤝 Open to collaboration and entry-level software development opportunities
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frontend Development
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Backend & Databases
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🚀 Featured Project
+
+### 📦 Zenventory — Voice-Integrated Inventory Management System
+
+An inventory management project that explores using voice commands to interact with inventory operations.
+
+**Tech Stack:** React, JavaScript, Python, Node.js, MongoDB, SQL
+
+**Project Focus:**
+- Inventory management application development
+- Voice-command integration for inventory interactions
+- Working with frontend, backend, and database technologies
+
+> Repository link and further technical details will be added as the project documentation is finalized.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahaboobAlMomin&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahaboobAlMomin&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- Strengthening my software engineering fundamentals
+- Building projects with React, Node.js, and Python
+- Expanding my knowledge of data science
+- Improving code quality and application architecture
+- Exploring opportunities to contribute to meaningful software projects
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in connecting with developers, engineers, recruiters, and others who enjoy building technology.
+
+📧 **Email:** [alammahaboob101@gmail.com](mailto:alammahaboob101@gmail.com)
+
+💼 **LinkedIn:** [Mahaboob Alam Momin](https://www.linkedin.com/in/mahaboob-alam-momin-4106b0225/)
+
+🌐 **Portfolio:** [mahaboobalammomin.com.np](https://www.mahaboobalammomin.com.np)
+
+---
+
+<div align="center">
+
+*Learning continuously. Building thoughtfully. Improving every day.*
+
+</div>
